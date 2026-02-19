@@ -1,5 +1,3 @@
-Here's a polished GitHub README for your project:
-
 markdown# 🍎 Food Nutrition EDA & Correlation Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
@@ -138,10 +136,3 @@ Open `Food_Nutrition_EDA_and_Correlation_Analysis.ipynb` and run all cells.
 
 **Nithyanantham A**
 BCA Graduate | Python & Data Analytics Enthusiast
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-
----
-
-⭐ *If you found this project helpful, consider giving it a star!*
